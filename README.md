@@ -1,7 +1,8 @@
-# gwent-classic-v3.1
+# gwent-classic
 ![cover](https://user-images.githubusercontent.com/26311830/116256903-f1599b00-a7b6-11eb-84a1-16dcb5c9bfc6.jpg)
 
-A browser remake of the original Gwent minigame from The Witcher 3: Wild Hunt including all cards from the DLC.<br/>Click [here](https://randompianist.github.io/gwent-classic-v3.1/) to play.
+Credits to the original fork [author](https://github.com/asundr/gwent-classic) and the 3.1 [fork](https://github.com/asundr/gwent-classic)
+A browser remake of the original Gwent minigame from The Witcher 3: Wild Hunt including all cards from the DLC.<br/>Click [here](https://renanb4.github.io/gwent-classic/) to play.
 
 In addition to cloning the original game, various cards, faction, abilities and features have added to push the game even further.
 
@@ -9,22 +10,15 @@ In addition to cloning the original game, various cards, faction, abilities and 
 
 Are listed here only the modifications done in this present fork, more were done before by other developers.
 
-### Adds
+### In Progress
 
-- Favicon
-- A statistics table
-- A "Give up" button
-- New visuals for carousel
-- Better styles on warning messages
+-Portuguese translation.
+
+### Added
+-none.
 
 ### Corrects
-
-- Typo errors
-- Unusued code
-- Aesthetic values
-- Bug in leader use
-- Bug when drawing a match
-- Bug when redrawing cards at the start of each match
+-none.
 
 ## Operations included with the keyboard:
 
